@@ -1,6 +1,6 @@
 {
   "name": "wrap-async-context",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use node's experimental AsyncWrap to share data across related async calls",
   "main": "dist/index.js",
   "scripts": {
@@ -33,5 +33,6 @@
   "repository": "musicglue/wrap-async-context",
   "engines": {
     "node": "^5.7"
-  }
+  },
+  "files": ["dist"]
 }
