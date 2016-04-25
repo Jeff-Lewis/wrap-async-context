@@ -27,7 +27,7 @@
     "supertest-as-promised": "^3.0.0"
   },
   "dependencies": {
-    "@musicglue/async-hook": "^1.3.2"
+    "async-hook": "^1.4.0"
   },
   "homepage": "https://github.com/musicglue/wrap-async-context",
   "repository": "musicglue/wrap-async-context",
