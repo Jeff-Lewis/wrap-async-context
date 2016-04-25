@@ -1,6 +1,6 @@
 {
   "name": "wrap-async-context",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Use node's experimental AsyncWrap to share data across related async calls",
   "main": "dist/index.js",
   "scripts": {
